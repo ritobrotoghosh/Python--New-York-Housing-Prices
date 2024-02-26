@@ -24,7 +24,6 @@ This dataset provides comprehensive information about house pricing in New York,
    
    - **MAIN_ADDRESS:** Offers primary address information.
    
-   
    - **ADMINISTRATIVE_AREA_LEVEL_2:** Provides details about the administrative area level 2.
    
    - **LOCALITY:** Specifies the locality where the house is situated.
